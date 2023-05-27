@@ -1,8 +1,8 @@
 import "./style.css";
 import * as THREE from "three";
-import * as datt from "lil-gui";
+// import * as datt from "lil-gui";
 
-const gui = new datt.GUI();
+// const gui = new datt.GUI();
 
 const scene = new THREE.Scene();
 //サイズ設定
